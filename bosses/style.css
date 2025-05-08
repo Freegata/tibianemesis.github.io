@@ -1,0 +1,39 @@
+
+body {
+    
+    background: radial-gradient(circle, rgba(89, 131, 252, 1) 0%, rgba(41, 53, 86, 1) 74%);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.boss-info {
+    position: relative;
+    -webkit-box-shadow: 8px 8px 24px 0px rgba(169, 181, 0, 1);
+    -moz-box-shadow: 8px 8px 24px 0px rgba(169, 181, 0, 1);
+    box-shadow: 8px 8px 24px 0px rgba(169, 181, 0, 1);
+    background: rgb(248, 234, 35);
+    max-width: 500px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 600px;
+    margin: 30px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  .info {
+    flex: 1;
+    font-family: sans-serif;
+  }
+  
+
+
