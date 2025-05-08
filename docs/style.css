@@ -14,7 +14,7 @@
     height: 50vh;
   }
   
-  .data-box {
+  .boss-info {
     position:absolute ;
     background: linear-gradient(135deg, #dadd22, #e0e0bd);
     color: rgb(10, 10, 10);
@@ -25,13 +25,13 @@
     transition: all 0.3s ease;
   }
   
-  .data-box h1 {
+  .boss-info h1 {
     font-size: 4,5em;
     margin-bottom: 25px;
     text-align: center;
   }
   
-  .data-box p {
+  .boss-info p {
     font-size: 1.3em;
     margin-bottom: 15px;
   }
